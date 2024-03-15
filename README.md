@@ -69,4 +69,4 @@
 
 ## DEORUM LEGIONS™ © 2022 Josh Alicea / Owl Shogun Studios LLC 
 
-## Lucian Calendar Converter Completed on March 15, 2024 
+## Lucian Calendar Converter Completed on:  TBA... 
