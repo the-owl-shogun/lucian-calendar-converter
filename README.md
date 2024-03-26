@@ -17,6 +17,8 @@
 
     [-] The last (365th) day is a special day commemorating the sacred Velcanalia festival...
 
+    [-] There are no Leap Years in the Lucian Calendar, thus Feb 29 will not be included...
+
 
 ## LUCIAN CALENDAR MONTHS 
 
